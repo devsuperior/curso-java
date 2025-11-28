@@ -4,23 +4,6 @@
 > Prof. Dr. Nelio Alves  
 > https://devsuperior.com.br
 
-## Importante: fundamentos vs comercial
-
-### Fundamentos
-
-- Lógica de Programação e Algoritmos
-- Controle de versão (Git)
-- Banco de Dados e SQL
-- Programação Orientada a Objetos
-- Estruturas de Dados e Algoritmos
-
-### Comercial (profissional)
-
-- Backend
-- Frontend
-- Mobile
-- Outras especialidades (games, software embarcado, software básico, etc.)
-
 ## Bloco Lógica de Programação
 
 > Um repasse da disciplina de Lógica de Programação com a linguagem Java. É imprescindível conhecer tópicos básicos como variáveis, condicionais (if-else), laços (while, for) e alguns recursos básicos da linguagem Java, antes de iniciarmos nos conteúdos de orientação a objetos.
@@ -54,3 +37,19 @@
 - Generics, Set, Map
 - Programação funcional e expressões lambda
 
+## Importante: fundamentos vs comercial
+
+### Fundamentos
+
+- Lógica de Programação e Algoritmos
+- Controle de versão (Git)
+- Banco de Dados e SQL
+- Programação Orientada a Objetos
+- Estruturas de Dados e Algoritmos
+
+### Comercial (profissional)
+
+- Backend
+- Frontend
+- Mobile
+- Outras especialidades (games, software embarcado, software básico, etc.)

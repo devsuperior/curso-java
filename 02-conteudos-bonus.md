@@ -6,8 +6,8 @@
 
 ## Bloco Bônus
 
-- Bônus: Acesso a banco de dados
 - Bônus: Nivelamento sobre Git e Github
+- Bônus: Acesso a banco de dados
 - Bônus: Java EE - Mapeamento objeto-relacional com JPA/Hibernate
 - Bônus: Projeto web services com Spring Boot e JPA/Hibernate
 - Bônus: Projeto Sistema Jogo de Xadrez

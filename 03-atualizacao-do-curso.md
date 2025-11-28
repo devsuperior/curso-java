@@ -16,6 +16,10 @@
 
 ## Notas importantes
 
-- Fundamentos praticamente não mudam com o tempo: muitas aulas seriam exatamente as mesmas se fossem regravadas hoje.
+- Aulas que são atualizadas (regravadas):
+  - **Tecnologia**: muda muito → sim.
+  - **Fundamentos**: praticamente não mudam → geralmente não.
+
 - O curso está totalmente compatível com as últimas versões, exceto bônus "legado" (JavaFX).
+
 - Algumas aulas citam versões anteriores (21, 17, 11, etc). Apenas ignore e siga usando seu Java 25.
