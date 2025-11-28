@@ -30,3 +30,14 @@ Passo a passo com Brew:
 https://github.com/devsuperior/sds2/tree/master/instalacao/mac#java-11-on-macos
 
 > Nota: faça o procedimento equivalente, adaptando para versão 25
+
+
+## O que está contido no JDK?
+
+| Componente                                                                          | Descrição resumida                                                         |
+| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **JVM**                                                                             | Motor que executa o bytecode Java.                                         |
+| **Compilador (`javac`)**                                                            | Converte arquivos `.java` em `.class`.                                     |
+| **Bibliotecas Java SE**                                                             | APIs padrão da plataforma (Collections, IO, Streams, Concurrency etc.).    |
+| **Ferramentas diversas**       | Empacotamento, execução, segurança, etc. |
+
