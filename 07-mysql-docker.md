@@ -21,8 +21,6 @@ docker ps
 ## Script Docker Compose para copiar
 
 ```yaml
-version: "3.7"
-
 services:
   # ====================================================================================================================
   # MYSQL SERVER (8.x)
@@ -34,8 +32,8 @@ services:
       MYSQL_ROOT_PASSWORD: 1234567
       MYSQL_DATABASE: mydatabase
       # opcional: criar um usuário específico
-      # MYSQL_USER: myuser
-      # MYSQL_PASSWORD: mypassword
+      MYSQL_USER: developer
+      MYSQL_PASSWORD: 1234567
     ports:
       - "3306:3306"
     command: ["--default-authentication-plugin=mysql_native_password"]
@@ -75,3 +73,4 @@ networks:
   dev-network:
     driver: bridge
 ```
+
